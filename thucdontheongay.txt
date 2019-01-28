@@ -1,0 +1,7 @@
+7
+1 Com_thit_kho 30 30000
+2 Com_thit_rang 25 50000
+3 Com_ca_ran 12 40000
+4 Com_trung_ran 10 30000
+5 Com_ca_kho_to 40 50000		
+6 Com_suon_sot 20 25000
